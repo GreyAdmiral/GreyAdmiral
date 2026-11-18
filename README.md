@@ -24,3 +24,5 @@
 
 -  Russia: native
 -  Belorussian: native
+-  German: A2
+-  English: A1
