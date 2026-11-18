@@ -1,16 +1,26 @@
-## Hi there 👋
+## Contacts
 
-<!--
-**GreyAdmiral/GreyAdmiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Email: itmaster@duck.com
+-  GitHub: https://github.com/GreyAdmiral
+-  Telegram: @Binarion
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+-  HTML5 / Pug /  Bootstrap / Material UI / Ant Design
+-  CSS4 / SASS | SCSS / Tailwindcss / Bulma
+-  JavaScript (+ES6 + AJAX + ООП) / Node.js / TypeScript
+-  React / Next.js
+-  Redux / RTK Query / Recoil / JQuery / JQuery UI
+-  ModX Revolution / Payload CMS
+-  Jest / Vitest
+-  Gulp / WebPack / Vite / Turbo
+-  Git
+-  Adobe Photoshop (включая обработку графики)
+-  Figma / Pixso / Zeplin
+
+### Language
+
+-  Russia: native
+-  Belorussian: native
