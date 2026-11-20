@@ -16,7 +16,7 @@
 -  Jest / Vitest
 -  Gulp / WebPack / Vite / Turbo
 -  Git
--  Adobe Photoshop (включая обработку графики)
+-  Adobe Photoshop (including graphics processing)
 -  Figma / Pixso / Zeplin
 
 ### Language
